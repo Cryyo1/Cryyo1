@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs, ReactJs**
 
-- 📫 How to reach me **chakibboudjema@gmail.com** or **discord : Chakib シャキブ#4620 **
+- 📫 How to reach me **chakibboudjema@gmail.com** or discord **Chakib シャキブ#4620**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
